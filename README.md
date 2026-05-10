@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hi, I'm Naman Chhajer<br><br>🔭 I’m currently working on improving my Full Stack web development skills and building portfolio projects<br><br>🌱 I’m currently learning the MERN Stack (MongoDB, Express, React, Node.js)<br><br>👯 I’m looking to collaborate on web development and student-based tech projects<br><br>🤝 I’m looking for help with advanced backend and real-world deployment practices<br><br>💬 Ask me about HTML, CSS, JavaScript, PHP, MySQL, and beginner-friendly web development<br><br>⚡ Fun fact: I started my tech journey from MS Paint in Grade 5 and now I build full websites 😄
+Passionate Full Stack Developer and BCA (Hons) student with a strong interest in Web Development and Artificial Intelligence. Skilled in HTML, CSS, JavaScript, PHP, and MySQL, with hands-on experience building responsive and dynamic web applications. Currently exploring the MERN Stack to develop modern and scalable full stack projects.
+
+I enjoy creating user-friendly websites, solving real-world problems through technology, and continuously improving my development skills through practical projects and hands-on learning. I have worked on portfolio websites, e-commerce projects, and frontend/backend web applications.
+
+Currently focused on:
+• Full Stack Web Development
+• MERN Stack Development
+• AI & Machine Learning Fundamentals
+• Building Real-World Projects
+• Improving Problem-Solving & Development Skills
+
+I’m always open to learning, collaboration, internships, and opportunities that help me grow as a developer.
+
+Let’s connect and build impactful solutions together.
+
 
 
 ## 🌐 Socials:
