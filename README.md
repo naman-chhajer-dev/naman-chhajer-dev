@@ -27,10 +27,10 @@ Let’s connect and build impactful solutions together.
 ![](https://githubreadmestats.vercel.app/api/toplangs/username=NamanChhajer&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NamanChhajer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=NamanChhajer&theme=radical&no-frame=false&no-bg=false&margin-w=4)]
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5&theme=dark&combine_all_yearly_contributions=true)
