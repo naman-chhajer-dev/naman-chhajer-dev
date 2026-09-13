@@ -9,8 +9,8 @@ My primary focus is Cybersecurity, where I work toward developing strong experti
 
 Alongside cybersecurity, I have a strong passion for Full Stack Web Development. I enjoy developing responsive and dynamic web applications and working across both frontend and backend technologies.
 
-💻 Technical Skills
-🔐 Cybersecurity & Web Security
+💻 Technical Skills<br>
+🔐 Cybersecurity & Web Security<br>
 🌐 Full Stack Web Development
 🖥️ HTML, CSS & JavaScript
 ⚙️ PHP, Node.js & Express.js
