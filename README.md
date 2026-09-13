@@ -56,7 +56,8 @@ Build. Secure. Innovate. 🚀
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=NamanChhajer&style=flat-square&color=blue)
