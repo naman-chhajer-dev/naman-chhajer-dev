@@ -11,15 +11,15 @@ Alongside cybersecurity, I have a strong passion for Full Stack Web Development.
 
 💻 Technical Skills<br>
 🔐 Cybersecurity & Web Security<br>
-🌐 Full Stack Web Development
-🖥️ HTML, CSS & JavaScript
-⚙️ PHP, Node.js & Express.js
-🗄️ MySQL & MongoDB
-🔗 REST APIs & Authentication
-⚛️ MERN Stack
-🐍 Python
-🚀 Deployment & Web Application Development
-🚀 What I Enjoy
+🌐 Full Stack Web Development<br>
+🖥️ HTML, CSS & JavaScript<br>
+⚙️ PHP, Node.js & Express.js<br>
+🗄️ MySQL & MongoDB<br>
+🔗 REST APIs & Authentication<br>
+⚛️ MERN Stack<br>
+🐍 Python<br>
+🚀 Deployment & Web Application Development<br><br>
+🚀 What I Enjoy<br>
 
 I enjoy building real-world projects, solving technical problems, learning new technologies, and understanding how systems can be protected against security threats.
 
