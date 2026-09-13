@@ -1,18 +1,54 @@
 # 💫 About Me:
-Passionate Full Stack Developer and BCA (Hons) student with a strong interest in Web Development and Artificial Intelligence. Skilled in HTML, CSS, JavaScript, PHP, and MySQL, with hands-on experience building responsive and dynamic web applications. Currently exploring the MERN Stack to develop modern and scalable full stack projects.
+# 👋 Hi, I'm Naman
 
-I enjoy creating user-friendly websites, solving real-world problems through technology, and continuously improving my development skills through practical projects and hands-on learning. I have worked on portfolio websites, e-commerce projects, and frontend/backend web applications.
+### Cybersecurity Professional in Progress | Passionate Full Stack Web Developer
 
-Currently focused on:
-• Full Stack Web Development
-• MERN Stack Development
-• AI & Machine Learning Fundamentals
-• Building Real-World Projects
-• Improving Problem-Solving & Development Skills
+I’m a BCA (Hons) student passionate about **Cybersecurity and Full Stack Web Development**, with a strong focus on building practical technical skills through real-world projects and hands-on learning.
 
-I’m always open to learning, collaboration, internships, and opportunities that help me grow as a developer.
+My long-term goal is to build a strong professional career in **Cybersecurity**, developing deep knowledge across security concepts, secure systems, web security, networking, ethical hacking, vulnerability assessment, and cybersecurity practices.
 
-Let’s connect and build impactful solutions together.
+Alongside cybersecurity, I’m passionate about **Full Stack Web Development** and enjoy designing, developing, and deploying modern, responsive, and dynamic web applications. I’m currently expanding my expertise in the **MERN Stack** and exploring how security can be integrated into full stack applications.
+
+### 💻 Technical Interests
+
+* 🔐 Cybersecurity & Information Security
+* 🌐 Full Stack Web Development
+* ⚛️ MERN Stack Development
+* 🛡️ Web Application Security
+* 🐍 Python for Cybersecurity
+* 🗄️ Databases & Backend Development
+* 🔗 APIs & Authentication
+* ☁️ Deployment & Cloud Technologies
+* 🤖 AI & Machine Learning Fundamentals
+
+### 🛠️ Technologies & Skills
+
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** PHP, Node.js, Express.js
+**Database:** MySQL, MongoDB
+**Development:** REST APIs, Authentication, Responsive Web Design
+**Currently Learning:** MERN Stack, Python, Cybersecurity
+
+### 🚀 What I Do
+
+I enjoy turning ideas into functional applications, solving real-world problems through technology, and continuously improving my development and problem-solving skills.
+
+I have hands-on experience working on **portfolio websites, e-commerce projects, frontend/backend applications, and full stack projects**.
+
+My current focus is on combining **development + security** to build applications that are not only functional and scalable, but also secure.
+
+### 🎯 Career Goal
+
+My goal is to become a **highly skilled Cybersecurity Professional** while continuing to grow as a **Full Stack Developer**, with the ability to understand, develop, secure, and improve modern web applications.
+
+I believe that strong development knowledge can become a powerful foundation for building expertise in cybersecurity.
+
+### 🤝 Let's Connect
+
+I’m always open to **learning, collaboration, internships, projects, and opportunities** that help me grow professionally and contribute to meaningful technology solutions.
+
+**Build. Secure. Learn. Improve. 🚀**
+
 
 
 
