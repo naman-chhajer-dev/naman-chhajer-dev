@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 👋 Hi, I'm Naman
 
 ### Cybersecurity Professional in Progress | Passionate Full Stack Web Developer
