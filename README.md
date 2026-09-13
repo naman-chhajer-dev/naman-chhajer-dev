@@ -59,6 +59,6 @@ Build. Secure. Innovate. 🚀
 ![](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![Naman Chhajer](https://visitcount.itsvg.in/api?id=NamanChhajer&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=NamanChhajer&style=flat-square&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
