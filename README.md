@@ -1,54 +1,41 @@
 
-# 👋 Hi, I'm Naman
+# 👋 About Me
 
-### Cybersecurity Professional in Progress | Passionate Full Stack Web Developer
 
-I’m a BCA (Hons) student passionate about **Cybersecurity and Full Stack Web Development**, with a strong focus on building practical technical skills through real-world projects and hands-on learning.
 
-My long-term goal is to build a strong professional career in **Cybersecurity**, developing deep knowledge across security concepts, secure systems, web security, networking, ethical hacking, vulnerability assessment, and cybersecurity practices.
+I am a Cybersecurity Professional and Full Stack Developer with a strong interest in building, securing, and improving modern web applications.
 
-Alongside cybersecurity, I’m passionate about **Full Stack Web Development** and enjoy designing, developing, and deploying modern, responsive, and dynamic web applications. I’m currently expanding my expertise in the **MERN Stack** and exploring how security can be integrated into full stack applications.
+My primary focus is Cybersecurity, where I work toward developing strong expertise in areas such as web security, network security, ethical hacking, vulnerability assessment, authentication, application security, and secure development practices.
 
-### 💻 Technical Interests
+Alongside cybersecurity, I have a strong passion for Full Stack Web Development. I enjoy developing responsive and dynamic web applications and working across both frontend and backend technologies.
 
-* 🔐 Cybersecurity & Information Security
-* 🌐 Full Stack Web Development
-* ⚛️ MERN Stack Development
-* 🛡️ Web Application Security
-* 🐍 Python for Cybersecurity
-* 🗄️ Databases & Backend Development
-* 🔗 APIs & Authentication
-* ☁️ Deployment & Cloud Technologies
-* 🤖 AI & Machine Learning Fundamentals
+💻 Technical Skills
+🔐 Cybersecurity & Web Security
+🌐 Full Stack Web Development
+🖥️ HTML, CSS & JavaScript
+⚙️ PHP, Node.js & Express.js
+🗄️ MySQL & MongoDB
+🔗 REST APIs & Authentication
+⚛️ MERN Stack
+🐍 Python
+🚀 Deployment & Web Application Development
+🚀 What I Enjoy
 
-### 🛠️ Technologies & Skills
+I enjoy building real-world projects, solving technical problems, learning new technologies, and understanding how systems can be protected against security threats.
 
-**Frontend:** HTML, CSS, JavaScript
-**Backend:** PHP, Node.js, Express.js
-**Database:** MySQL, MongoDB
-**Development:** REST APIs, Authentication, Responsive Web Design
-**Currently Learning:** MERN Stack, Python, Cybersecurity
+I’m particularly interested in the connection between web development and cybersecurity—building applications while understanding how to identify vulnerabilities and implement better security practices.
 
-### 🚀 What I Do
+🎯 My Focus
 
-I enjoy turning ideas into functional applications, solving real-world problems through technology, and continuously improving my development and problem-solving skills.
+Cybersecurity • Full Stack Development • Web Application Security • Secure Coding • Real-World Projects
 
-I have hands-on experience working on **portfolio websites, e-commerce projects, frontend/backend applications, and full stack projects**.
+I believe continuous learning, practical experience, and building projects are the best ways to grow as a technology professional.
 
-My current focus is on combining **development + security** to build applications that are not only functional and scalable, but also secure.
+🤝 Let's Connect
 
-### 🎯 Career Goal
+I’m open to collaboration, internships, projects, cybersecurity opportunities, and learning experiences where I can contribute, gain practical exposure, and create meaningful solutions.
 
-My goal is to become a **highly skilled Cybersecurity Professional** while continuing to grow as a **Full Stack Developer**, with the ability to understand, develop, secure, and improve modern web applications.
-
-I believe that strong development knowledge can become a powerful foundation for building expertise in cybersecurity.
-
-### 🤝 Let's Connect
-
-I’m always open to **learning, collaboration, internships, projects, and opportunities** that help me grow professionally and contribute to meaningful technology solutions.
-
-**Build. Secure. Learn. Improve. 🚀**
-
+Build. Secure. Innovate. 🚀
 
 
 
