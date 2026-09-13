@@ -57,7 +57,7 @@ Build. Secure. Innovate. 🚀
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=NamanChhajer&style=flat-square&color=blue)
