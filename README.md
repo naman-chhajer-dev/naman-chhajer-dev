@@ -1,65 +1,24 @@
-
-# 👋 About Me
-
-
-
-I am a Cybersecurity Professional and Full Stack Developer with a strong interest in building, securing, and improving modern web applications.
-
-My primary focus is Cybersecurity, where I work toward developing strong expertise in areas such as web security, network security, ethical hacking, vulnerability assessment, authentication, application security, and secure development practices.
-
-Alongside cybersecurity, I have a strong passion for Full Stack Web Development. I enjoy developing responsive and dynamic web applications and working across both frontend and backend technologies.
-
-💻 Technical Skills<br>
-🔐 Cybersecurity & Web Security<br>
-🌐 Full Stack Web Development<br>
-🖥️ HTML, CSS & JavaScript<br>
-⚙️ PHP, Node.js & Express.js<br>
-🗄️ MySQL & MongoDB<br>
-🔗 REST APIs & Authentication<br>
-⚛️ MERN Stack<br>
-🐍 Python<br>
-🚀 Deployment & Web Application Development<br><br>
-🚀 What I Enjoy<br>
-
-I enjoy building real-world projects, solving technical problems, learning new technologies, and understanding how systems can be protected against security threats.
-
-I’m particularly interested in the connection between web development and cybersecurity—building applications while understanding how to identify vulnerabilities and implement better security practices.
-
-🎯 My Focus
-
-Cybersecurity • Full Stack Development • Web Application Security • Secure Coding • Real-World Projects
-
-I believe continuous learning, practical experience, and building projects are the best ways to grow as a technology professional.
-
-🤝 Let's Connect
-
-I’m open to collaboration, internships, projects, cybersecurity opportunities, and learning experiences where I can contribute, gain practical exposure, and create meaningful solutions.
-
-Build. Secure. Innovate. 🚀
-
+# 💫 About Me:
+I am a Cybersecurity Professional and Full Stack Developer with a strong interest in building, securing, and improving modern web applications.<br><br>My primary focus is Cybersecurity, where I work toward developing strong expertise in areas such as web security, network security, ethical hacking, vulnerability assessment, authentication, application security, and secure development practices.<br><br>Alongside cybersecurity, I have a strong passion for Full Stack Web Development. I enjoy developing responsive and dynamic web applications and working across both frontend and backend technologies.<br><br>💻 Technical Skills<br>🔐 Cybersecurity & Web Security<br>🌐 Full Stack Web Development<br>🖥️ HTML, CSS & JavaScript<br>⚙️ PHP, Node.js & Express.js<br>🗄️ MySQL & MongoDB<br>🔗 REST APIs & Authentication<br>⚛️ MERN Stack<br>🐍 Python<br>🚀 Deployment & Web Application Development<br><br>🚀 What I Enjoy<br><br>I enjoy building real-world projects, solving technical problems, learning new technologies, and understanding how systems can be protected against security threats.<br><br>I’m particularly interested in the connection between web development and cybersecurity—building applications while understanding how to identify vulnerabilities and implement better security practices.<br><br>🎯 My Focus<br><br>Cybersecurity • Full Stack Development • Web Application Security • Secure Coding • Real-World Projects<br><br>I believe continuous learning, practical experience, and building projects are the best ways to grow as a technology professional.<br><br>🤝 Let's Connect<br><br>I’m open to collaboration, internships, projects, cybersecurity opportunities, and learning experiences where I can contribute, gain practical exposure, and create meaningful solutions.<br><br>Build. Secure. Innovate. 🚀<br><br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chhajednaman07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-chhajer-7bb214312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nchhajed74@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/naman-chhajer-7bb214312) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NamanChhajer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nchhajed74@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NamanChhajer&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NamanChhajer&theme=onedark&hide_border=false)<br/>
-![](https://githubreadmestats.vercel.app/api/toplangs/username=NamanChhajer&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.shion.dev/api?username=naman-chhajer-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=naman-chhajer-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=naman-chhajer-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NamanChhajer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=naman-chhajer-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NamanChhajer&limit=5)
-
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=NamanChhajer&style=flat-square&color=blue)
+[![](https://komarev.com/ghpvc/?username=naman-chhajer-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
